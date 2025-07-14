@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="logo.png" alt="Logo" width="300"/>
+<div align="left">
+  <img src="logo.png" alt="Logo" width="200"/>
 </div>
 
 # GAZEL-ADN notebook
