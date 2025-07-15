@@ -2,7 +2,7 @@
 
 # GAZEL-ADN notebook
 
-<img src="logo.png" alt="Logo" width="210" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
+<img src="logo.png" alt="Logo" width="220" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
 
 This repository contains the data and scripts necessary to reproduce all figures in the paper: *“Performing human whole genome sequencing from saliva samples provides highly reliable information about the salivary microbiome.”* The study evaluates whether standard host-DNA extraction protocols can reliably support salivary microbiome profiling when paired with deep shotgun sequencing.
 
@@ -14,7 +14,7 @@ This analysis compares two saliva sample sets:
 All data used in this analysis were processed for human read removal and taxonomic profiling as described in the manuscript.
 
 Both datasets were analyzed using:
-- [`meteor`](https://github.com/metagenopolis/meteor): for genome coverage–based profiling using a saliva-specific microbial reference database ([Zenodo link](https://zenodo.org/records/14181351)).
+- [`meteor`](https://github.com/metagenopolis/meteor): for genome coverage–based profiling using their [saliva-specific microbial reference database](https://zenodo.org/records/14181351).
 - [`sylph`](https://github.com/bluenote-1577/sylph): for broad taxonomic classification using the [GTDB](https://gtdb.ecogenomic.org/) (release R220, April 2024).
 
 <br clear="left"/>
