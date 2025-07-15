@@ -2,7 +2,7 @@
 
 # GAZEL-ADN notebook
 
-<img src="logo.png" alt="Logo" width="220" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
+<img src="logo.png" alt="Logo" width="230" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
 
 This repository contains the data and scripts necessary to reproduce all figures in the paper: *“Performing human whole genome sequencing from saliva samples provides highly reliable information about the salivary microbiome.”* The study evaluates whether standard host-DNA extraction protocols can reliably support salivary microbiome profiling when paired with deep shotgun sequencing.
 
