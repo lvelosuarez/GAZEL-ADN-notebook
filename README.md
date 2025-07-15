@@ -24,7 +24,7 @@ Both datasets were analyzed using:
 <details>
 <summary><strong> Background</strong></summary>
 
-The salivary microbiome is a key indicator of health and immunity. While saliva samples are widely collected for human DNA analysis in genomic biobanks, these protocols are not optimized for microbial recovery — raising concerns about their microbiome profiling utility.
+The salivary microbiome is a key indicator of health and immunity. Although saliva samples are commonly collected in genomic biobanks for human DNA analysis, the extraction protocols used are typically not tailored for microbial recovery, raising questions about their suitability for microbiome profiling.
 
 </details>
 
@@ -43,10 +43,9 @@ The salivary microbiome is a key indicator of health and immunity. While saliva 
 
 ## 📁 Repository structure
 
-- `data/`: Sample metadata and example output files   
+- `data/`: Sample metadata and taxonomy files (taxon tables)  
 - `figures/`: Exported figures from the manuscript  
-- `env/`: Conda environment files and package dependencies  
-- `notebooks/`: Jupyter notebooks for exploratory analyses and used to generate each figure 
+- `notebooks/`: Jupyter notebooks for exploratory analyses and used to generate each figure (with the R kernel)
 
 Each of the three figures/analyses presented in the paper corresponds to a different Jupyter notebook in the `notebooks/` repository:
 
