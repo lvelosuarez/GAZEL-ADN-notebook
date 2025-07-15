@@ -2,14 +2,14 @@
 
 # GAZEL-ADN notebook
 
-<img src="logo.png" alt="Logo" width="230" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
+<img src="logo.png" alt="Logo" width="250" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
 
 This repository contains the data and scripts necessary to reproduce all figures in the paper: *“Performing human whole genome sequencing from saliva samples provides highly reliable information about the salivary microbiome.”* The study evaluates whether standard host-DNA extraction protocols can reliably support salivary microbiome profiling when paired with deep shotgun sequencing.
 
 This analysis compares two saliva sample sets:
 
 - **GAZEL-ADN samples**: Collected using Oragene saliva kits (DNA Genotek™) and extracted using Maxwell magnetic bead–based technology (PROMEGA™). Sequenced on an Illumina NovaSeq 6000 with the TruSeq PCR-free protocol.  
-- **ASAL samples**: Publicly available fastq files downloaded from the European Nucleotide Archive under accession [PRJEB57658](https://www.ebi.ac.uk/ena/browser/view/PRJEB57658). DNA was extracted using two microbiome-oriented protocols and sequenced using the Ion Proton platform.
+- **ASAL samples**: Publicly available fastq files downloaded from the ENA under accession [PRJEB57658](https://www.ebi.ac.uk/ena/browser/view/PRJEB57658). DNA was extracted using two microbiome-oriented protocols and sequenced using the Ion Proton platform.
 
 All data used in this analysis were processed for human read removal and taxonomic profiling as described in the manuscript.
 
