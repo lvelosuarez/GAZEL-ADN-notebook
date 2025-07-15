@@ -9,7 +9,7 @@ This repository contains the data and scripts necessary to reproduce all figures
 This analysis compares two saliva sample sets:
 
 - **GAZEL-ADN samples**: Collected using Oragene saliva kits (DNA Genotek™) and extracted using Maxwell magnetic bead–based technology (PROMEGA™). Sequenced on an Illumina NovaSeq 6000 with the TruSeq PCR-free protocol.  
-- **ASAL samples**: Publicly available fastq files downloaded from the ENA under accession [PRJEB57658](https://www.ebi.ac.uk/ena/browser/view/PRJEB57658). DNA was extracted using two microbiome-oriented protocols and sequenced using the Ion Proton platform.
+- **ASAL samples**: Fastq files downloaded from ENA under accession [PRJEB57658](https://www.ebi.ac.uk/ena/browser/view/PRJEB57658). DNA was extracted using two microbiome-oriented protocols and sequenced using the Ion Proton platform.
 
 All data used in this analysis were processed for human read removal and taxonomic profiling as described in the manuscript.
 
