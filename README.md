@@ -22,14 +22,14 @@ Both datasets were analyzed using:
 ## 📌 TL;DR
 
 <details>
-<summary><strong>🧬 Background</strong></summary>
+<summary><strong> Background</strong></summary>
 
 The salivary microbiome is a key indicator of health and immunity. While saliva samples are widely collected for human DNA analysis in genomic biobanks, these protocols are not optimized for microbial recovery — raising concerns about their microbiome profiling utility.
 
 </details>
 
 <details>
-<summary><strong>🔍 Key Findings</strong></summary>
+<summary><strong> Key Findings</strong></summary>
 
 - Deep sequencing compensates for the lack of microbial-specific extraction.
 - Higher microbial richness and reproducibility in GAZEL-ADN samples.
