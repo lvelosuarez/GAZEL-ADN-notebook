@@ -24,7 +24,7 @@ Both datasets were analyzed using:
 <details>
 <summary><strong> Background</strong></summary>
 
-The salivary microbiome is a key indicator of health and immunity. Although saliva samples are commonly collected in genomic biobanks for human DNA analysis, the extraction protocols used are typically not tailored for microbial recovery, raising questions about their suitability for microbiome profiling.
+The salivary microbiome is a key indicator of health and immunity. Although saliva samples are commonly collected in genomic biobanks for human DNA sequencing, the extraction protocols used are typically not tailored for microbial recovery, raising questions about their suitability for microbiome profiling.
 
 </details>
 
