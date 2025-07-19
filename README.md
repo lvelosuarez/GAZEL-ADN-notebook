@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15881253.svg)](https://doi.org/10.5281/zenodo.15881253)
 
-# GAZEL-ADN notebook
+# miG notebook
 
 <img src="logo.png" alt="Logo" width="250" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
 
@@ -8,7 +8,7 @@ This repository contains the data and scripts necessary to reproduce all figures
 
 This analysis compares two saliva sample sets:
 
-- **GAZEL-ADN**: Collected using Oragene saliva kits (DNA Genotek™) and extracted using Maxwell magnetic bead–based technology (PROMEGA™). Sequenced on an Illumina NovaSeq 6000 with the TruSeq PCR-free protocol.  
+- **miG**: Collected using Oragene saliva kits (DNA Genotek™) and extracted using Maxwell magnetic bead–based technology (PROMEGA™). Sequenced on an Illumina NovaSeq 6000 with the TruSeq PCR-free protocol.  
 - **ASAL**: Fastq files downloaded from ENA under accession [PRJEB57658](https://www.ebi.ac.uk/ena/browser/view/PRJEB57658). DNA was extracted using two microbiome-oriented protocols and sequenced using the Ion Proton platform.
 
 All data used in this analysis were processed for human read removal and taxonomic profiling as described in the manuscript.
@@ -32,10 +32,10 @@ The salivary microbiome is a key indicator of health and immunity. Although sali
 <summary><strong> Key Findings</strong></summary>
 
 - Deep sequencing compensates for the lack of microbial-specific extraction.
-- Higher microbial richness and reproducibility in GAZEL-ADN samples.
+- Higher microbial richness and reproducibility in miG samples.
 - Species-level resolution is maintained even without lysis-focused protocols.
 - Community structures converge between protocols after rarefaction.
-- GAZEL-ADN shows lower variability at fine taxonomic levels (per FAVA).
+- miG shows lower variability at fine taxonomic levels (per FAVA).
 
 </details>
 
